@@ -1,0 +1,15 @@
+img {
+  width:640px;
+}
+
+.turtles {
+  display: none;
+}
+
+.snakes {
+  display: none;
+}
+
+.insects {
+  display: none;
+}
